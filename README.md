@@ -1,4 +1,5 @@
 # Youtube-Video-Downloader
+It also shows Title and number of views and length of video.
 
 Install pytube using this command : pip install pytube
 
